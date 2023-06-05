@@ -5,15 +5,20 @@
 ### that's my name when I play games or watching animations
 ### 🤺锐利的剑锐利的眼
 ### 👋Nice to meet you
-
+<div > 
+    <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+</div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ztlsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ztlsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> <a href="https://www.cnblogs.com/ztlsw/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你%20好%20吗;&center=true&size=27"> </a> </h1>
 
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/665449/galleries/1931941/o_210215141509xune.jpg" alt="ztlsw" class="img_avatar" style="border-radius:10%" width="210px" height="210px">
+### 当前状态 My status be like：
+<img  align="center" src="https://images.cnblogs.com/cnblogs_com/blogs/665449/galleries/1931941/o_210215141509xune.jpg" alt="ztlsw" class="img_avatar" style="border-radius:10%" width="100px" height="100px">
 
+### 在往全栈的方向发展
+### 🤔I’m currently learning about C# and Unity
 
 <!--
 **ztlsw/ztlsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
