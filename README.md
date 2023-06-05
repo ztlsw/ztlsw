@@ -4,7 +4,7 @@
 ### 👋Nice to meet you
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ztlsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好吗&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22你%2C%20好%2C%20吗%22);&center=true&size=27"> </a> </h1>
 
 <!--
 **ztlsw/ztlsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
