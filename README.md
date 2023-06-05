@@ -6,7 +6,7 @@
 ### 🤺锐利的剑锐利的眼
 ### 👋Nice to meet you
 <div > 
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=ztlsw" />
 </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ztlsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
