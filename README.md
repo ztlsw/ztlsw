@@ -7,8 +7,8 @@
 ### 👋Nice to meet you
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ztlsw&left_color=green&right_color=red)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ztlsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ztlsw&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ztlsw's github stats](https://github-readme-stats.vercel.app/api?username=ztlsw&theme=dark)]
+[![ztlsw's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ztlsw&theme=dark)]
 
 <h1 align="center"> <a href="https://www.cnblogs.com/ztlsw/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你%20好%20吗;&center=true&size=27"> </a> </h1>
 
