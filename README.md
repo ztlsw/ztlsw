@@ -2,7 +2,7 @@
 ### 🤺我渴望有价值的对手
 ### You might see me on other platforms using another Nickname pgydsjy
 ### 🤺吾剑也未尝不利
-### that's my name when I play games or watching animations
+### That's my name when I play games or watch animations
 ### 🤺锐利的剑锐利的眼
 ### 👋Nice to meet you
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ztlsw&left_color=green&right_color=red)
