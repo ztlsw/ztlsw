@@ -15,5 +15,3 @@
 ### 当前状态 My status be like：
 <img  align="center" src="https://images.cnblogs.com/cnblogs_com/blogs/665449/galleries/1931941/o_210215141509xune.jpg" alt="ztlsw" class="img_avatar" style="border-radius:10%" width="100px" height="100px">
 
-### 在往全栈的方向发展
-### 🤔I’m currently learning about C# and Unity
